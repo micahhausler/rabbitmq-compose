@@ -1,7 +1,7 @@
 # RabbitMQ in docker-compose
 
 ## Setup
-This setup assumes you already have docker-compose and docker (using boot2docker) installed.
+This setup assumes you already have docker-compose and docker (using docker toolbox) installed.
 
 ```
 git clone git@github.com:micahhausler/rabbitmq-compose.git
