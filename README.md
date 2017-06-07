@@ -22,5 +22,8 @@ username: rabbitmq
 password: rabbitmq
 ```
 
+## Tutorial
+https://www.rabbitmq.com/getstarted.html
+
 ## License
 MIT License
